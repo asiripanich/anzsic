@@ -786,7 +786,33 @@ anzsic_code_93,anzsic_name_93,anzsic_code_06,anzsic_name_06
 9330,Other Recreation Services,9139,Amusement and Other Recreation Activities n.e.c.
 9511,Video Hire Outlets,6632,Video and Other Electronic Media Rental and Hiring
 9519,Personal and Household Goods Hiring n.e.c.,6639p,Other Goods and Equipment Rental and Hiring n.e.c.
-9519,Personal and Household Goods Hiring n.e.c.,2919,Other Waste Collection Services
-9519,Personal and Household Goods Hiring n.e.c.,2921,Waste Treatment and Disposal Services
-9519,Personal and Household Goods Hiring n.e.c.,2922p,Waste Remediation and Materials Recovery Services
-9519,Personal and Household Goods Hiring n.e.c.,7311p,Building and Other Industrial Cleaning Services
+9521,Laundries and Dry-Cleaners,1334p,Textile Finishing and Other Textile Product Manufacturing
+9521,Laundries and Dry-Cleaners,9531,Laundry and Dry-Cleaning Services
+9522,Photographic Film Processing,5514p,Post-production Services and Other Motion Picture and Video Activities
+9522,Photographic Film Processing,9532,Photographic Film Processing
+9523,Photographic Studios,6991,Professional Photographic Services
+9524,"Funeral Directors, Crematoria and Cemeteries",9520,"Funeral, Crematorium and Cemetery Services"
+9525,Gardening Services,7313,Gardening Services
+9526,Hairdressing and Beauty Salons,9511p,Hairdressing and Beauty Services
+9529,Personal Services n.e.c.,5299p,Other Transport Support Services n.e.c.
+9529,Personal Services n.e.c.,7292p,Document Preparation Services
+9529,Personal Services n.e.c.,7311p,Building and Other Industrial Cleaning Services
+9529,Personal Services n.e.c.,9511p,Hairdressing and Beauty Services
+9529,Personal Services n.e.c.,9512,Diet and Weight Reduction Centre Operation
+9529,Personal Services n.e.c.,9534,Brothel Keeping and Prostitution Services
+9529,Personal Services n.e.c.,9539p,Other Personal Services n.e.c.
+9610,Religious Organisations,9540,Religious Services
+9621,Business and Professional Associations,9551,Business and Professional Association Services
+9622,Labour Associations,9552,Labour Association Services
+9629,Interest Groups n.e.c.,9559p,Other Interest Group Services n.e.c.
+9631,Police Services,7711,Police Services
+9632,Corrective Centres,7714p,Correctional and Detention Services
+9633,Fire Brigade Services,7713p,Fire Protection and Other Emergency Services
+9634,Waste Disposal Services,2911,Solid Waste Collection Services
+9634,Waste Disposal Services,2919,Other Waste Collection Services
+9634,Waste Disposal Services,2921,Waste Treatment and Disposal Services
+9634,Waste Disposal Services,2922p,Waste Remediation and Materials Recovery Services
+9634,Waste Disposal Services,7311p,Building and Other Industrial Cleaning Services
+9700,Private Households Employing Staff,9601,Private Households Employing Staff
+9700,Private Households Employing Staff,9602,Undifferentiated Goods-Producing Activities of Private Households for Own Use
+9700,Private Households Employing Staff,9603,Undifferentiated Service-Producing Activities of Private Households for Own Use
