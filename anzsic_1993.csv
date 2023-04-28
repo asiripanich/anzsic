@@ -1,466 +1,466 @@
-division_code,division_title,subdivision_code,subdivision_title,group_code,group_title,class_code,class_title
-A,"Agriculture, Forestry and Fishing",100,Agriculture,11,Horticulture and Fruit Growing,111,Plant Nurseries
-A,"Agriculture, Forestry and Fishing",100,Agriculture,11,Horticulture and Fruit Growing,112,Cut Flower and Flower Seed Growing
-A,"Agriculture, Forestry and Fishing",100,Agriculture,11,Horticulture and Fruit Growing,113,Vegetable Growing
-A,"Agriculture, Forestry and Fishing",100,Agriculture,11,Horticulture and Fruit Growing,114,Grape Growing
-A,"Agriculture, Forestry and Fishing",100,Agriculture,11,Horticulture and Fruit Growing,115,Apple and Pear Growing
-A,"Agriculture, Forestry and Fishing",100,Agriculture,11,Horticulture and Fruit Growing,116,Stone Fruit Growing
-A,"Agriculture, Forestry and Fishing",100,Agriculture,11,Horticulture and Fruit Growing,117,Kiwi Fruit Growing
-A,"Agriculture, Forestry and Fishing",100,Agriculture,11,Horticulture and Fruit Growing,119,Fruit Growing n.e.c.
-A,"Agriculture, Forestry and Fishing",100,Agriculture,12,"Grain, Sheep and Beef Cattle Farming",121,Grain Growing
-A,"Agriculture, Forestry and Fishing",100,Agriculture,12,"Grain, Sheep and Beef Cattle Farming",122,Grain-Sheep and Grain-Beef Cattle Farming
-A,"Agriculture, Forestry and Fishing",100,Agriculture,12,"Grain, Sheep and Beef Cattle Farming",123,Sheep-Beef Cattle Farming
-A,"Agriculture, Forestry and Fishing",100,Agriculture,12,"Grain, Sheep and Beef Cattle Farming",124,Sheep Farming
-A,"Agriculture, Forestry and Fishing",100,Agriculture,12,"Grain, Sheep and Beef Cattle Farming",125,Beef Cattle Farming
-A,"Agriculture, Forestry and Fishing",100,Agriculture,13,Dairy Cattle Farming,130,Dairy Cattle Farming
-A,"Agriculture, Forestry and Fishing",100,Agriculture,14,Poultry Farming,141,Poultry Farming (Meat)
-A,"Agriculture, Forestry and Fishing",100,Agriculture,14,Poultry Farming,142,Poultry Farming (Eggs)
-A,"Agriculture, Forestry and Fishing",100,Agriculture,15,Other Livestock Farming,151,Pig Farming
-A,"Agriculture, Forestry and Fishing",100,Agriculture,15,Other Livestock Farming,152,Horse Farming
-A,"Agriculture, Forestry and Fishing",100,Agriculture,15,Other Livestock Farming,153,Deer Farming
-A,"Agriculture, Forestry and Fishing",100,Agriculture,15,Other Livestock Farming,159,Livestock Farming n.e.c.
-A,"Agriculture, Forestry and Fishing",100,Agriculture,16,Other Crop Growing,161,Sugar Cane Growing
-A,"Agriculture, Forestry and Fishing",100,Agriculture,16,Other Crop Growing,162,Cotton Growing
-A,"Agriculture, Forestry and Fishing",100,Agriculture,16,Other Crop Growing,169,Crop and Plant Growing n.e.c.
-A,"Agriculture, Forestry and Fishing",200,Services to Agriculture; Hunting and Trapping,21,Services to Agriculture,211,Cotton Ginning
-A,"Agriculture, Forestry and Fishing",200,Services to Agriculture; Hunting and Trapping,21,Services to Agriculture,212,Shearing Services
-A,"Agriculture, Forestry and Fishing",200,Services to Agriculture; Hunting and Trapping,21,Services to Agriculture,213,Aerial Agricultural Services
-A,"Agriculture, Forestry and Fishing",200,Services to Agriculture; Hunting and Trapping,21,Services to Agriculture,219,Services to Agriculture n.e.c.
-A,"Agriculture, Forestry and Fishing",200,Services to Agriculture; Hunting and Trapping,22,Hunting and Trapping,220,Hunting and Trapping
-A,"Agriculture, Forestry and Fishing",300,Forestry and Logging,30,Forestry and Logging,301,Forestry
-A,"Agriculture, Forestry and Fishing",300,Forestry and Logging,30,Forestry and Logging,302,Logging
-A,"Agriculture, Forestry and Fishing",300,Forestry and Logging,30,Forestry and Logging,303,Services to Forestry
-A,"Agriculture, Forestry and Fishing",400,Commercial Fishing,41,Marine Fishing,411,Rock Lobster Fishing
-A,"Agriculture, Forestry and Fishing",400,Commercial Fishing,41,Marine Fishing,412,Prawn Fishing
-A,"Agriculture, Forestry and Fishing",400,Commercial Fishing,41,Marine Fishing,413,Finfish Trawling
-A,"Agriculture, Forestry and Fishing",400,Commercial Fishing,41,Marine Fishing,414,Squid Jigging
-A,"Agriculture, Forestry and Fishing",400,Commercial Fishing,41,Marine Fishing,415,Line Fishing
-A,"Agriculture, Forestry and Fishing",400,Commercial Fishing,41,Marine Fishing,419,Marine Fishing n.e.c.
-A,"Agriculture, Forestry and Fishing",400,Commercial Fishing,42,Aquaculture,420,Aquaculture
-B,Mining,1100,Coal Mining,110,Coal Mining,1101,Black Coal Mining
-B,Mining,1100,Coal Mining,110,Coal Mining,1102,Brown Coal Mining
-B,Mining,1200,Oil and Gas Extraction,120,Oil and Gas Extraction,1200,Oil and Gas Extraction
-B,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1311,Iron Ore Mining
-B,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1312,Bauxite Mining
-B,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1313,Copper Ore Mining
-B,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1314,Gold Ore Mining
-B,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1315,Mineral Sand Mining
-B,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1316,Nickel Ore Mining
-B,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1317,Silver-Lead-Zinc Ore Mining
-B,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1319,Metal Ore Mining n.e.c.
-B,Mining,1400,Other Mining,141,Construction Material Mining,1411,Gravel and Sand Quarrying
-B,Mining,1400,Other Mining,141,Construction Material Mining,1419,Construction Material Mining n.e.c.
-B,Mining,1400,Other Mining,142,Mining n.e.c.,1420,Other Mining
-B,Mining,1500,Services to Mining,151,Exploration,1511,Petroleum Exploration (Own Account)
-B,Mining,1500,Services to Mining,151,Exploration,1512,Petroleum Exploration Services
-B,Mining,1500,Services to Mining,151,Exploration,1513,Mineral Exploration (Own Account)
-B,Mining,1500,Services to Mining,151,Exploration,1514,Mineral Exploration Services
-B,Mining,1500,Services to Mining,152,Other Mining Services,1520,Other Mining Services
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",211,Meat and Meat Product Manufacturing,2111,Meat Processing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",211,Meat and Meat Product Manufacturing,2112,Poultry Processing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",211,Meat and Meat Product Manufacturing,2113,"Bacon, Ham and Smallgood Manufacturing"
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",212,Dairy Product Manufacturing,2121,Milk and Cream Processing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",212,Dairy Product Manufacturing,2122,Ice Cream Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",212,Dairy Product Manufacturing,2129,Dairy Product Manufacturing n.e.c.
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",213,Fruit and Vegetable Processing,2130,Fruit and Vegetable Processing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",214,Oil and Fat Manufacturing,2140,Oil and Fat Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",215,Flour Mill and Cereal Food Manufacturing,2151,Flour Mill Product Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",215,Flour Mill and Cereal Food Manufacturing,2152,Cereal Food and Baking Mix Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",216,Bakery Product Manufacturing,2161,Bread Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",216,Bakery Product Manufacturing,2162,Cake and Pastry Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",216,Bakery Product Manufacturing,2163,Biscuit Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2171,Sugar Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2172,Confectionery Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2173,Seafood Processing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2174,Prepared Animal and Bird Feed
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2179,Food Manufacturing n.e.c.
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",218,Beverage and Malt Manufacturing,2181,"Soft Drink, Cordial and Syrup Manufacturing"
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",218,Beverage and Malt Manufacturing,2182,Beer and Malt Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",218,Beverage and Malt Manufacturing,2183,Wine Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",218,Beverage and Malt Manufacturing,2184,Spirit Manufacturing
-C,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",219,Tobacco Product Manufacturing,2190,Tobacco Product Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2211,Wool Scouring
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2212,Synthetic Fibre Textile Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2213,Cotton Textile Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2214,Wool Textile Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2215,Textile Finishing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",222,Textile Product Manufacturing,2221,Made-Up Textile Product Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",222,Textile Product Manufacturing,2222,Textile Floor Covering Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",222,Textile Product Manufacturing,2223,"Rope, Cordage and Twine Manufacturing"
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",222,Textile Product Manufacturing,2229,Textile Product Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",223,Knitting Mills,2231,Hosiery Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",223,Knitting Mills,2232,Cardigan and Pullover Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",223,Knitting Mills,2239,Knitting Mill Product Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",224,Clothing Manufacturing,2241,Men's and Boys' Wear Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",224,Clothing Manufacturing,2242,Women's and Girls' Wear Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",224,Clothing Manufacturing,2243,"Sleepwear, Underwear and Infant Clothing Manufacturing"
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",224,Clothing Manufacturing,2249,Clothing Manufacturing n.e.c.
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",225,Footwear Manufacturing,2250,Footwear Manufacturing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",226,Leather and Leather Product Manufacturing,2261,Leather Tanning and Fur Dressing
-C,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",226,Leather and Leather Product Manufacturing,2262,Leather and Leather Substitute Product Manufacturing
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,231,Log Sawmilling and Timber Dressing,2311,Log Sawmilling
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,231,Log Sawmilling and Timber Dressing,2312,Wood Chipping
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,231,Log Sawmilling and Timber Dressing,2313,Timber Resawing and Dressing
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,232,Other Wood Product Manufacturing,2321,Plywood and Veneer Manufacturing
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,232,Other Wood Product Manufacturing,2322,Fabricated Wood Manufacturing
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,232,Other Wood Product Manufacturing,2323,Wooden Structural Component Manufacturing
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,232,Other Wood Product Manufacturing,2329,Wood Product Manufacturing n.e.c.
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2331,"Pulp, Paper and Paperboard Manufacturing"
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2332,Solid Paperboard Container Manufacturing
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2333,Corrugated Paperboard Container Manufacturing
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2334,Paper Bag and Sack Manufacturing
-C,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2339,Paper Product Manufacturing n.e.c.
-C,Manufacturing,2400,"Printing, Publishing and Recorded Media",241,Printing and Services to Printing,2411,Paper Stationery Manufacturing
-C,Manufacturing,2400,"Printing, Publishing and Recorded Media",241,Printing and Services to Printing,2412,Printing
-C,Manufacturing,2400,"Printing, Publishing and Recorded Media",241,Printing and Services to Printing,2413,Services to Printing
-C,Manufacturing,2400,"Printing, Publishing and Recorded Media",242,Publishing,2421,Newspaper Printing or Publishing
-C,Manufacturing,2400,"Printing, Publishing and Recorded Media",242,Publishing,2422,Other Periodical Publishing
-C,Manufacturing,2400,"Printing, Publishing and Recorded Media",242,Publishing,2423,Book and Other Publishing
-C,Manufacturing,2400,"Printing, Publishing and Recorded Media",243,Recorded Media Manufacturing and Publishing,2430,Recorded Media Manufacturing and Publishing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",251,Petroleum Refining,2510,Petroleum Refining
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",252,Petroleum and Coal Product Manufacturing NEC,2520,Petroleum and Coal Product Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2531,Fertiliser Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2532,Industrial Gas Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2533,Synthetic Resin Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2534,Organic Industrial Chemical Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2535,Inorganic Industrial Chemical
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2541,Explosive Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2542,Paint Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2543,Medicinal and Pharmaceutical Product Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2544,Pesticide Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2545,Soap and Other Detergent Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2546,Cosmetic and Toiletry Preparation Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2547,Ink Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2549,Chemical Product Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",255,Rubber Product Manufacturing,2551,Rubber Tyre Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",255,Rubber Product Manufacturing,2559,Rubber Product Manufacturing n.e.c.
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2561,Plastic Blow Moulded Product Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2562,Plastic Extruded Product Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2563,Plastic Bag and Film Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2564,Plastic Product Rigid Fibre Reinforced Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2565,Plastic Foam Product Manufacturing
-C,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2566,Plastic Injection Moulded Product Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,261,Glass and Glass Product Manufacturing,2610,Glass and Glass Product Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,262,Ceramic Manufacturing,2621,Clay Brick Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,262,Ceramic Manufacturing,2622,Ceramic Product Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,262,Ceramic Manufacturing,2623,Ceramic Tile and Pipe Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,262,Ceramic Manufacturing,2629,Ceramic Product Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2631,Cement and Lime Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2632,Plaster Product Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2633,Concrete Slurry Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2634,Concrete Pipe and Box Culvert
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2635,Concrete Product Manufacturing
-C,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,264,Non-Metallic Mineral Product Manufacturing NEC,2640,Non-Metallic Mineral Product Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,271,Iron and Steel Manufacturing,2711,Basic Iron and Steel Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,271,Iron and Steel Manufacturing,2712,Iron and Steel Casting and Forging
-C,Manufacturing,2700,Metal Product Manufacturing,271,Iron and Steel Manufacturing,2713,Steel Pipe and Tube Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,272,Basic Non-Ferrous Metal Manufacturing,2721,Alumina Production
-C,Manufacturing,2700,Metal Product Manufacturing,272,Basic Non-Ferrous Metal Manufacturing,2722,Aluminium Smelting
-C,Manufacturing,2700,Metal Product Manufacturing,272,Basic Non-Ferrous Metal Manufacturing,2723,"Copper, Silver, Lead and Zinc"
-C,Manufacturing,2700,Metal Product Manufacturing,272,Basic Non-Ferrous Metal Manufacturing,2729,Basic Non-Ferrous Metal Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,273,Non-Ferrous Basic Metal Product Manufacturing,2731,"Aluminium Rolling, Drawing, Extruding"
-C,Manufacturing,2700,Metal Product Manufacturing,273,Non-Ferrous Basic Metal Product Manufacturing,2732,"Non-Ferrous Metal Rolling, Drawing, Extruding n.e.c."
-C,Manufacturing,2700,Metal Product Manufacturing,273,Non-Ferrous Basic Metal Product Manufacturing,2733,Non-Ferrous Metal Casting
-C,Manufacturing,2700,Metal Product Manufacturing,274,Structural Metal Product Manufacturing,2741,Structural Steel Fabricating
-C,Manufacturing,2700,Metal Product Manufacturing,274,Structural Metal Product Manufacturing,2742,Architectural Aluminium Product Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,274,Structural Metal Product Manufacturing,2749,Structural Metal Product Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,275,Sheet Metal Product Manufacturing,2751,Metal Container Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,275,Sheet Metal Product Manufacturing,2759,Sheet Metal Product Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2761,Hand Tool and General Hardware
-C,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2762,Spring and Wire Product Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2763,"Nut, Bolt, Screw and Rivet Manufacturing"
-C,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2764,Metal Coating and Finishing
-C,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2765,Non-Ferrous Pipe Fitting Manufacturing
-C,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2769,Fabricated Metal Product Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,281,Motor Vehicle and Part Manufacturing,2811,Motor Vehicle Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,281,Motor Vehicle and Part Manufacturing,2812,Motor Vehicle Body Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,281,Motor Vehicle and Part Manufacturing,2813,Automotive Electrical and Instrument Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,281,Motor Vehicle and Part Manufacturing,2819,Automotive Component Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2821,Shipbuilding
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2822,Boatbuilding
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2823,Railway Equipment Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2824,Aircraft Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2829,Transport Equipment Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,283,Photographic and Scientific Equipment Manufacturing,2831,Photographic and Optical Good
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,283,Photographic and Scientific Equipment Manufacturing,2832,Medical and Surgical Equipment Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,283,Photographic and Scientific Equipment Manufacturing,2839,Professional and Scientific Equipment Manufacturing n.e.c.
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,284,Electronic Equipment Manufacturing,2841,Computer and Business Machine
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,284,Electronic Equipment Manufacturing,2842,"Telecommunication, Broadcasting & Transceiving Equipment Manufacturing"
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,284,Electronic Equipment Manufacturing,2849,Electronic Equipment Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2851,Household Appliance Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2852,Electric Cable and Wire Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2853,Battery Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2854,Electric Light and Sign Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2859,Electrical and Equipment Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2861,Agricultural Machinery Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2862,Mining and Construction Machinery Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2863,Food Processing Machinery Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2864,Machine Tool and Part Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2865,Lifting and Material Handling
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2866,Pump and Compressor Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2867,Commercial Space Heating and Cooling Equipment Manufacturing
-C,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2869,Industrial Machinery and Equipment Manufacturing n.e.c.
-C,Manufacturing,2900,Other Manufacturing,291,Prefabricated Building Manufacturing,2911,Prefabricated Metal Building Manufacturing
-C,Manufacturing,2900,Other Manufacturing,291,Prefabricated Building Manufacturing,2919,Prefabricated Building Manufacturing
-C,Manufacturing,2900,Other Manufacturing,292,Furniture Manufacturing,2921,Wooden Furniture and Upholster
-C,Manufacturing,2900,Other Manufacturing,292,Furniture Manufacturing,2922,Sheet Metal Furniture Manufacturing
-C,Manufacturing,2900,Other Manufacturing,292,Furniture Manufacturing,2923,Mattress Manufacturing (Except Rubber)
-C,Manufacturing,2900,Other Manufacturing,292,Furniture Manufacturing,2929,Furniture Manufacturing n.e.c.
-C,Manufacturing,2900,Other Manufacturing,294,Other Manufacturing,2941,Jewellery and Silverware Manufacturing
-C,Manufacturing,2900,Other Manufacturing,294,Other Manufacturing,2942,Toy and Sporting Good Manufacturing
-C,Manufacturing,2900,Other Manufacturing,294,Other Manufacturing,2949,Manufacturing n.e.c.
-D,"Electricity, Gas and Water Supply",3600,Electricity and Gas Supply,361,Electricity Supply,3610,Electricity Supply
-D,"Electricity, Gas and Water Supply",3600,Electricity and Gas Supply,362,Gas Supply,3620,Gas Supply
-D,"Electricity, Gas and Water Supply",3700,"Water Supply, Sewerage and Drainage Services",370,"Water Supply, Sewerage and Drainage Services",3701,Water Supply
-D,"Electricity, Gas and Water Supply",3700,"Water Supply, Sewerage and Drainage Services",370,"Water Supply, Sewerage and Drainage Services",3702,Sewerage and Drainage Services
-E,Construction,4100,General Construction,411,Building Construction,4111,House Construction
-E,Construction,4100,General Construction,411,Building Construction,4112,Residential Building Construction n.e.c.
-E,Construction,4100,General Construction,411,Building Construction,4113,Non-Residential Building Construction
-E,Construction,4100,General Construction,412,Non-Building Construction,4121,Road and Bridge Construction
-E,Construction,4100,General Construction,412,Non-Building Construction,4122,Non-Building Construction n.e.c.
-E,Construction,4200,Construction Trade Services,421,Site Preparation Services,4210,Site Preparation Services
-E,Construction,4200,Construction Trade Services,422,Building Structure Services,4221,Concreting Services
-E,Construction,4200,Construction Trade Services,422,Building Structure Services,4222,Bricklaying Services
-E,Construction,4200,Construction Trade Services,422,Building Structure Services,4223,Roofing Services
-E,Construction,4200,Construction Trade Services,422,Building Structure Services,4224,Structural Steel Erection Services
-E,Construction,4200,Construction Trade Services,423,Installation Trade Services,4231,Plumbing Services
-E,Construction,4200,Construction Trade Services,423,Installation Trade Services,4232,Electrical Services
-E,Construction,4200,Construction Trade Services,423,Installation Trade Services,4233,Air Conditioning and Heating Services
-E,Construction,4200,Construction Trade Services,423,Installation Trade Services,4234,Fire and Security System Services
-E,Construction,4200,Construction Trade Services,424,Building Completion Services,4241,Plastering and Ceiling Service
-E,Construction,4200,Construction Trade Services,424,Building Completion Services,4242,Carpentry Services
-E,Construction,4200,Construction Trade Services,424,Building Completion Services,4243,Tiling and Carpeting Services
-E,Construction,4200,Construction Trade Services,424,Building Completion Services,4244,Painting and Decorating Services
-E,Construction,4200,Construction Trade Services,424,Building Completion Services,4245,Glazing Services
-E,Construction,4200,Construction Trade Services,425,Other Construction Services,4251,Landscaping Services
-E,Construction,4200,Construction Trade Services,425,Other Construction Services,4259,Construction Services n.e.c.
-F,Wholesale Trade,4500,Basic Material Wholesaling,451,Farm Produce Wholesaling,4511,Wool Wholesaling
-F,Wholesale Trade,4500,Basic Material Wholesaling,451,Farm Produce Wholesaling,4512,Cereal Grain Wholesaling
-F,Wholesale Trade,4500,Basic Material Wholesaling,451,Farm Produce Wholesaling,4519,Farm Produce and Supplies Wholesaling
-F,Wholesale Trade,4500,Basic Material Wholesaling,452,"Mineral, Metal and Chemical Wholesaling",4521,Petroleum Product Wholesaling
-F,Wholesale Trade,4500,Basic Material Wholesaling,452,"Mineral, Metal and Chemical Wholesaling",4522,Metal and Mineral Wholesaling
-F,Wholesale Trade,4500,Basic Material Wholesaling,452,"Mineral, Metal and Chemical Wholesaling",4523,Chemical Wholesaling
-F,Wholesale Trade,4500,Basic Material Wholesaling,453,Builders Supplies Wholesaling,4531,Timber Wholesaling
-F,Wholesale Trade,4500,Basic Material Wholesaling,453,Builders Supplies Wholesaling,4539,Building Supplies Wholesaling
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4611,Farm and Construction Machinery Wholesaling
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4612,Professional Equipment Wholesaling
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4613,Computer Wholesaling
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4614,Business Machine Wholesaling n.e.c.
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4615,Electrical and Electronic Equipment Wholesaling n.e.c.
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4619,Machinery and Equipment Wholesaling
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,462,Motor Vehicle Wholesaling,4621,Car Wholesaling
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,462,Motor Vehicle Wholesaling,4622,Commercial Vehicle Wholesaling
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,462,Motor Vehicle Wholesaling,4623,Motor Vehicle New Part Dealing
-F,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,462,Motor Vehicle Wholesaling,4624,Motor Vehicle Dismantling and Used Part Dealing
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4711,Meat Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4712,Poultry and Smallgood Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4713,Dairy Produce Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4714,Fish Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4715,Fruit and Vegetable Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4716,Confectionery and Soft Drink Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4717,Liquor Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4718,Tobacco Product Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4719,Grocery Wholesaling n.e.c.
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,472,"Textile, Clothing and Footwear Wholesaling",4721,Textile Product Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,472,"Textile, Clothing and Footwear Wholesaling",4722,Clothing Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,472,"Textile, Clothing and Footwear Wholesaling",4723,Footwear Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,473,Household Good Wholesaling,4731,Household Appliance Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,473,Household Good Wholesaling,4732,Furniture Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,473,Household Good Wholesaling,4733,Floor Covering Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,473,Household Good Wholesaling,4739,Household Good Wholesaling n.e.c.
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4791,Photographic Equipment Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4792,Jewellery and Watch Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4793,Toy and Sporting Good Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4794,Book and Magazine Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4795,Paper Product Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4796,Pharmaceutical and Toiletry Wholesaling
-F,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4799,Wholesaling n.e.c.
-G,Retail Trade,5100,Food Retailing,511,Supermarket and Grocery Stores,5110,Supermarket and Grocery Stores
-G,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5121,"Fresh Meat, Fish and Poultry Retailing"
-G,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5122,Fruit and Vegetable Retailing
-G,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5123,Liquor Retailing
-G,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5124,Bread and Cake Retailing
-G,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5125,Takeaway Food Retailing
-G,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5126,Milk Vending
-G,Retail Trade,5100,Food Retailing,521,Department Stores,5129,Specialised Food Retailing n.e.c.
-G,Retail Trade,5200,Personal and Household Good Retailing,522,Clothing and Soft Good Retailing,5210,Department Stores
-G,Retail Trade,5200,Personal and Household Good Retailing,522,Clothing and Soft Good Retailing,5221,Clothing Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,522,Clothing and Soft Good Retailing,5222,Footwear Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5223,Fabric and Other Soft Good Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5231,Furniture Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5232,Floor Covering Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5233,Domestic Hardware and Houseware Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5234,Domestic Appliance Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5235,Recorded Music Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5241,Sport and Camping Equipment Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5242,Toy and Game Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5243,"Newspaper, Book and Stationery Retailing"
-G,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5244,Photographic Equipment Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5245,Marine Equipment Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5251,"Pharmaceutical, Cosmetic and Toiletry Retailing"
-G,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5252,Antique and Used Good Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5253,Garden Equipment Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5254,Flower Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5255,Watch and Jewellery Retailing
-G,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5259,Retailing n.e.c.
-G,Retail Trade,5200,Personal and Household Good Retailing,526,Household Equipment Repair Services,5269,Household Equipment Repair Services n.e.c.
-G,Retail Trade,5200,Personal and Household Good Retailing,526,Household Equipment Repair Services,5261,Household Equipment Repair Services (Electrical)
-G,Retail Trade,5300,Motor Vehicle Retailing and Services,531,Motor Vehicle Retailing,5311,Car Retailing
-G,Retail Trade,5300,Motor Vehicle Retailing and Services,531,Motor Vehicle Retailing,5312,Motor Cycle Dealing
-G,Retail Trade,5300,Motor Vehicle Retailing and Services,531,Motor Vehicle Retailing,5313,Trailer and Caravan Dealing
-G,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5321,Automotive Fuel Retailing
-G,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5322,Automotive Electrical Services
-G,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5323,Smash Repairing
-G,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5324,Tyre Retailing
-G,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5329,Automotive Repair and Services
-H,"Accommodation, Cafes and Restaurants",5700,"Accommodation, Cafes and Restaurants",571,Accommodation,5710,Accommodation
-H,"Accommodation, Cafes and Restaurants",5700,"Accommodation, Cafes and Restaurants",572,"Pubs, Taverns and Bars",5720,"Pubs, Taverns and Bars"
-H,"Accommodation, Cafes and Restaurants",5700,"Accommodation, Cafes and Restaurants",573,Cafes and Restaurants,5730,Cafes and Restaurants
-H,"Accommodation, Cafes and Restaurants",5700,"Accommodation, Cafes and Restaurants",574,Clubs (Hospitality),5740,Clubs (Hospitality)
-I,Transport and Storage,6100,Road Transport,611,Road Freight Transport,6110,Road Freight Transport
-I,Transport and Storage,6100,Road Transport,612,Road Passenger Transport,6121,Long Distance Bus Transport
-I,Transport and Storage,6100,Road Transport,612,Road Passenger Transport,6122,Short Distance Bus Transport
-I,Transport and Storage,6100,Road Transport,612,Road Passenger Transport,6123,Taxi and Other Road Passenger Transport
-I,Transport and Storage,6200,Rail Transport,620,Rail Transport,6200,Rail Transport
-I,Transport and Storage,6300,Water Transport,630,Water Transport,6301,International Sea Transport
-I,Transport and Storage,6300,Water Transport,630,Water Transport,6302,Coastal Water Transport
-I,Transport and Storage,6300,Water Transport,630,Water Transport,6303,Inland Water Transport
-I,Transport and Storage,6400,Air and Space Transport,640,Air and Space Transport,6401,Scheduled International Air Transport
-I,Transport and Storage,6400,Air and Space Transport,640,Air and Space Transport,6402,Scheduled Domestic Air Transport
-I,Transport and Storage,6400,Air and Space Transport,640,Air and Space Transport,6403,Non-Scheduled Air and Space Transport
-I,Transport and Storage,6500,Other Transport,650,Other Transport,6501,Pipeline Transport
-I,Transport and Storage,6500,Other Transport,650,Other Transport,6509,Transport n.e.c.
-I,Transport and Storage,6600,Services to Transport,661,Services to Road Transport,6611,Parking Services
-I,Transport and Storage,6600,Services to Transport,661,Services to Road Transport,6619,Services to Road Transport n.e.c.
-I,Transport and Storage,6600,Services to Transport,662,Services to Water Transport,6621,Stevedoring
-I,Transport and Storage,6600,Services to Transport,662,Services to Water Transport,6622,Water Transport Terminals
-I,Transport and Storage,6600,Services to Transport,662,Services to Water Transport,6623,Port Operators
-I,Transport and Storage,6600,Services to Transport,663,Services to Air Transport,6629,Services to Water Transport n.e.c.
-I,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6630,Services to Air Transport
-I,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6641,Travel Agency Services
-I,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6642,Road Freight Forwarding
-I,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6643,Freight Forwarding (Except Road)
-I,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6644,Customs Agency Services
-I,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6649,Services to Transport n.e.c.
-I,Transport and Storage,6700,Storage,670,Storage,6701,Grain Storage
-I,Transport and Storage,6700,Storage,670,Storage,6709,Storage n.e.c.
-J,Communication Services,7100,Communication Services,711,Postal and Courier Services,7111,Postal Services
-J,Communication Services,7100,Communication Services,711,Postal and Courier Services,7112,Courier Services
-J,Communication Services,7100,Communication Services,712,Telecommunication Services,7120,Telecommunication Services
-K,Finance and Insurance,7300,Finance,731,Central Bank,7310,Central Bank
-K,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7321,Banks
-K,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7322,Building Societies
-K,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7323,Credit Unions
-K,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7324,Money Market Dealers
-K,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7329,Deposit Taking Financiers n.e.c.
-K,Finance and Insurance,7300,Finance,733,Other Financiers,7330,Other Financiers
-K,Finance and Insurance,7300,Finance,734,Financial Asset Investors,7340,Financial Asset Investors
-K,Finance and Insurance,7400,Insurance,741,Life Insurance and Superannuation Funds,7411,Life Insurance
-K,Finance and Insurance,7400,Insurance,741,Life Insurance and Superannuation Funds,7412,Superannuation Funds
-K,Finance and Insurance,7400,Insurance,742,Other Insurance,7421,Health Insurance
-K,Finance and Insurance,7400,Insurance,742,Other Insurance,7422,General Insurance
-K,Finance and Insurance,7500,Services to Finance and Insurance,751,Services to Finance and Investment,7511,Financial Asset Broking Services
-K,Finance and Insurance,7500,Services to Finance and Insurance,751,Services to Finance and Investment,7519,Services to Finance and Investment n.e.c.
-K,Finance and Insurance,7500,Services to Finance and Insurance,752,Services to Insurance,7520,Services to Insurance
-L,Property and Business Services,7700,Property Services,771,Property Operators and Developers,7711,Residential Property Operators
-L,Property and Business Services,7700,Property Services,771,Property Operators and Developers,7712,Commercial Property Operators
-L,Property and Business Services,7700,Property Services,772,Real Estate Agents,7720,Real Estate Agents
-L,Property and Business Services,7700,Property Services,773,Non-Financial Asset Investors,7730,Non-Financial Asset Investors
-L,Property and Business Services,7700,Property Services,774,Machinery and Equipment Hiring and Leasing,7741,Motor Vehicle Hiring
-L,Property and Business Services,7700,Property Services,774,Machinery and Equipment Hiring and Leasing,7742,Other Transport Equipment Leasing
-L,Property and Business Services,7700,Property Services,774,Machinery and Equipment Hiring and Leasing,7743,Plant Hiring or Leasing
-L,Property and Business Services,7800,Business Services,781,Scientific Research,7810,Scientific Research
-L,Property and Business Services,7800,Business Services,782,Technical Services,7821,Architectural Services
-L,Property and Business Services,7800,Business Services,782,Technical Services,7822,Surveying Services
-L,Property and Business Services,7800,Business Services,782,Technical Services,7823,Consulting Engineering Service
-L,Property and Business Services,7800,Business Services,782,Technical Services,7829,Technical Services n.e.c.
-L,Property and Business Services,7800,Business Services,783,Computer Services,7831,Data Processing Services
-L,Property and Business Services,7800,Business Services,783,Computer Services,7832,Information Storage and Retrieval Services
-L,Property and Business Services,7800,Business Services,783,Computer Services,7833,Computer Maintenance Services
-L,Property and Business Services,7800,Business Services,784,Legal and Accounting Services,7834,Computer Consultancy Services
-L,Property and Business Services,7800,Business Services,784,Legal and Accounting Services,7841,Legal Services
-L,Property and Business Services,7800,Business Services,784,Legal and Accounting Services,7842,Accounting Services
-L,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7851,Advertising Services
-L,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7852,Commercial Art and Display Services
-L,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7853,Market Research Services
-L,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7854,Business Administrative Services
-L,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7855,Business Management Services
-L,Property and Business Services,7800,Business Services,786,Other Business Services,7861,Employment Placement Services
-L,Property and Business Services,7800,Business Services,786,Other Business Services,7862,Contract Staff Services
-L,Property and Business Services,7800,Business Services,786,Other Business Services,7863,Secretarial Services
-L,Property and Business Services,7800,Business Services,786,Other Business Services,7864,Security and Investigative Services
-L,Property and Business Services,7800,Business Services,786,Other Business Services,7865,Pest Control Services
-L,Property and Business Services,7800,Business Services,786,Other Business Services,7866,Cleaning Services
-L,Property and Business Services,7800,Business Services,786,Other Business Services,7867,Contract Packing Services n.e.c.
-L,Property and Business Services,7800,Business Services,786,Other Business Services,7869,Business Services n.e.c.
-M,Government Administration and Defence,8100,Government Administration,811,Government Administration,8111,Central Government Administration
-M,Government Administration and Defence,8100,Government Administration,811,Government Administration,8112,State Government Administration
-M,Government Administration and Defence,8100,Government Administration,811,Government Administration,8113,Local Government Administration
-M,Government Administration and Defence,8100,Government Administration,812,Justice,8120,Justice
-M,Government Administration and Defence,8100,Government Administration,813,Foreign Government Representation,8130,Foreign Government Representation
-M,Government Administration and Defence,8200,Defence,820,Defence,8200,Defence
-N,Education,8400,Education,841,Preschool Education,8410,Preschool Education
-N,Education,8400,Education,842,School Education,8421,Primary Education
-N,Education,8400,Education,842,School Education,8422,Secondary Education
-N,Education,8400,Education,842,School Education,8423,Combined Primary and Secondary
-N,Education,8400,Education,842,School Education,8424,Special School Education
-N,Education,8400,Education,843,Post School Education,8431,Higher Education
-N,Education,8400,Education,843,Post School Education,8432,Technical and Further Education
-N,Education,8400,Education,844,Other Education,8440,Other Education
-O,Health and Community Services,8600,Health Services,861,Hospitals and Nursing Homes,8611,Hospitals (Except Psychiatric Hospitals)
-O,Health and Community Services,8600,Health Services,861,Hospitals and Nursing Homes,8612,Psychiatric Hospitals
-O,Health and Community Services,8600,Health Services,861,Hospitals and Nursing Homes,8613,Nursing Homes
-O,Health and Community Services,8600,Health Services,862,Medical and Dental Services,8621,General Practice Medical Services
-O,Health and Community Services,8600,Health Services,862,Medical and Dental Services,8622,Specialist Medical Services
-O,Health and Community Services,8600,Health Services,862,Medical and Dental Services,8623,Dental Services
-O,Health and Community Services,8600,Health Services,863,Other Health Services,8631,Pathology Services
-O,Health and Community Services,8600,Health Services,863,Other Health Services,8632,Optometry and Optical Dispensing
-O,Health and Community Services,8600,Health Services,863,Other Health Services,8633,Ambulance Services
-O,Health and Community Services,8600,Health Services,863,Other Health Services,8634,Community Health Centres
-O,Health and Community Services,8600,Health Services,863,Other Health Services,8635,Physiotherapy Services
-O,Health and Community Services,8600,Health Services,863,Other Health Services,8636,Chiropractic Services
-O,Health and Community Services,8600,Health Services,863,Other Health Services,8639,Health Services n.e.c.
-O,Health and Community Services,8600,Health Services,864,Veterinary Services,8640,Veterinary Services
-O,Health and Community Services,8700,Community Services,871,Child Care Services,8710,Child Care Services
-O,Health and Community Services,8700,Community Services,872,Community Care Services,8721,Accommodation for the Aged
-O,Health and Community Services,8700,Community Services,872,Community Care Services,8722,Residential Care Services n.e.c..
-O,Health and Community Services,8700,Community Services,872,Community Care Services,8729,Non-Residential Care Services
-P,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",911,Film and Video Services,9111,Film and Video Production
-P,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",911,Film and Video Services,9112,Film and Video Distribution
-P,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",911,Film and Video Services,9113,Motion Picture Exhibition
-P,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",912,Radio and Television Services,9121,Radio Services
-P,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",912,Radio and Television Services,9122,Television Services
-P,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",921,Libraries,9210,Libraries
-P,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",922,Museums,9220,Museums
-P,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",923,Parks and Gardens,9231,Zoological and Botanic Gardens
-P,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",923,Parks and Gardens,9239,Recreational Parks and Gardens
-P,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",924,Arts,9241,Music and Theatre Productions
-P,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",924,Arts,9242,Creative Arts
-P,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",925,Services to the Arts,9251,Sound Recording Studios
-P,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",925,Services to the Arts,9252,Performing Arts Venues
-P,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",925,Services to the Arts,9259,Services to the Arts n.e.c.
-P,Cultural and Recreational Services,9300,Sport and Recreation,931,Sport,9311,Horse and Dog Racing
-P,Cultural and Recreational Services,9300,Sport and Recreation,931,Sport,9312,Sports Grounds and Facilities
-P,Cultural and Recreational Services,9300,Sport and Recreation,931,Sport,9319,Sports and Services to Sports
-P,Cultural and Recreational Services,9300,Sport and Recreation,932,Gambling Services,9321,Lotteries
-P,Cultural and Recreational Services,9300,Sport and Recreation,932,Gambling Services,9322,Casinos
-P,Cultural and Recreational Services,9300,Sport and Recreation,932,Gambling Services,9329,Gambling Services n.e.c.
-P,Cultural and Recreational Services,9300,Sport and Recreation,933,Other Recreation Services,9330,Other Recreation Services
-Q,Personal and Other Services,9500,Personal Services,951,Personal and Household Goods Hiring,9511,Video Hire Outlets
-Q,Personal and Other Services,9500,Personal Services,951,Personal and Household Goods Hiring,9519,Personal and Household Goods Hiring n.e.c.
-Q,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9521,Laundries and Dry-Cleaners
-Q,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9522,Photographic Film Processing
-Q,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9523,Photographic Studios
-Q,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9524,"Funeral Directors, Crematoria and Cemeteries"
-Q,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9525,Gardening Services
-Q,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9526,Hairdressing and Beauty Salons
-Q,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9529,Personal Services n.e.c.
-Q,Personal and Other Services,9600,Other Services,961,Religious Organisations,9610,Religious Organisations
-Q,Personal and Other Services,9600,Other Services,962,Interest Groups,9621,Business and Professional Associations
-Q,Personal and Other Services,9600,Other Services,962,Interest Groups,9622,Labour Associations
-Q,Personal and Other Services,9600,Other Services,962,Interest Groups,9629,Interest Groups n.e.c.
-Q,Personal and Other Services,9600,Other Services,963,Public Order and Safety Services,9631,Police Services
-Q,Personal and Other Services,9600,Other Services,963,Public Order and Safety Services,9632,Corrective Centres
-Q,Personal and Other Services,9600,Other Services,963,Public Order and Safety Services,9633,Fire Brigade Services
-Q,Personal and Other Services,9600,Other Services,963,Public Order and Safety Services,9634,Waste Disposal Services
-Q,Personal and Other Services,9700,Private Households Employing Staff,970,Private Households Employing Staff,9700,Private Households Employing Staff
+division_code,division_code_num,division_title,subdivision_code,subdivision_title,group_code,group_title,class_code,class_title
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,011,Horticulture and Fruit Growing,0111,Plant Nurseries
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,011,Horticulture and Fruit Growing,0112,Cut Flower and Flower Seed Growing
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,011,Horticulture and Fruit Growing,0113,Vegetable Growing
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,011,Horticulture and Fruit Growing,0114,Grape Growing
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,011,Horticulture and Fruit Growing,0115,Apple and Pear Growing
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,011,Horticulture and Fruit Growing,0116,Stone Fruit Growing
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,011,Horticulture and Fruit Growing,0117,Kiwi Fruit Growing
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,011,Horticulture and Fruit Growing,0119,Fruit Growing n.e.c.
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,012,"Grain, Sheep and Beef Cattle Farming",0121,Grain Growing
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,012,"Grain, Sheep and Beef Cattle Farming",0122,Grain-Sheep and Grain-Beef Cattle Farming
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,012,"Grain, Sheep and Beef Cattle Farming",0123,Sheep-Beef Cattle Farming
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,012,"Grain, Sheep and Beef Cattle Farming",0124,Sheep Farming
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,012,"Grain, Sheep and Beef Cattle Farming",0125,Beef Cattle Farming
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,013,Dairy Cattle Farming,0130,Dairy Cattle Farming
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,014,Poultry Farming,0141,Poultry Farming (Meat)
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,014,Poultry Farming,0142,Poultry Farming (Eggs)
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,015,Other Livestock Farming,0151,Pig Farming
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,015,Other Livestock Farming,0152,Horse Farming
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,015,Other Livestock Farming,0153,Deer Farming
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,015,Other Livestock Farming,0159,Livestock Farming n.e.c.
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,016,Other Crop Growing,0161,Sugar Cane Growing
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,016,Other Crop Growing,0162,Cotton Growing
+A,01,"Agriculture, Forestry and Fishing",0100,Agriculture,016,Other Crop Growing,0169,Crop and Plant Growing n.e.c.
+A,01,"Agriculture, Forestry and Fishing",0200,Services to Agriculture; Hunting and Trapping,021,Services to Agriculture,0211,Cotton Ginning
+A,01,"Agriculture, Forestry and Fishing",0200,Services to Agriculture; Hunting and Trapping,021,Services to Agriculture,0212,Shearing Services
+A,01,"Agriculture, Forestry and Fishing",0200,Services to Agriculture; Hunting and Trapping,021,Services to Agriculture,0213,Aerial Agricultural Services
+A,01,"Agriculture, Forestry and Fishing",0200,Services to Agriculture; Hunting and Trapping,021,Services to Agriculture,0219,Services to Agriculture n.e.c.
+A,01,"Agriculture, Forestry and Fishing",0200,Services to Agriculture; Hunting and Trapping,022,Hunting and Trapping,0220,Hunting and Trapping
+A,01,"Agriculture, Forestry and Fishing",0300,Forestry and Logging,030,Forestry and Logging,0301,Forestry
+A,01,"Agriculture, Forestry and Fishing",0300,Forestry and Logging,030,Forestry and Logging,0302,Logging
+A,01,"Agriculture, Forestry and Fishing",0300,Forestry and Logging,030,Forestry and Logging,0303,Services to Forestry
+A,01,"Agriculture, Forestry and Fishing",0400,Commercial Fishing,041,Marine Fishing,0411,Rock Lobster Fishing
+A,01,"Agriculture, Forestry and Fishing",0400,Commercial Fishing,041,Marine Fishing,0412,Prawn Fishing
+A,01,"Agriculture, Forestry and Fishing",0400,Commercial Fishing,041,Marine Fishing,0413,Finfish Trawling
+A,01,"Agriculture, Forestry and Fishing",0400,Commercial Fishing,041,Marine Fishing,0414,Squid Jigging
+A,01,"Agriculture, Forestry and Fishing",0400,Commercial Fishing,041,Marine Fishing,0415,Line Fishing
+A,01,"Agriculture, Forestry and Fishing",0400,Commercial Fishing,041,Marine Fishing,0419,Marine Fishing n.e.c.
+A,01,"Agriculture, Forestry and Fishing",0400,Commercial Fishing,042,Aquaculture,0420,Aquaculture
+B,02,Mining,1100,Coal Mining,110,Coal Mining,1101,Black Coal Mining
+B,02,Mining,1100,Coal Mining,110,Coal Mining,1102,Brown Coal Mining
+B,02,Mining,1200,Oil and Gas Extraction,120,Oil and Gas Extraction,1200,Oil and Gas Extraction
+B,02,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1311,Iron Ore Mining
+B,02,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1312,Bauxite Mining
+B,02,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1313,Copper Ore Mining
+B,02,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1314,Gold Ore Mining
+B,02,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1315,Mineral Sand Mining
+B,02,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1316,Nickel Ore Mining
+B,02,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1317,Silver-Lead-Zinc Ore Mining
+B,02,Mining,1300,Metal Ore Mining,131,Metal Ore Mining,1319,Metal Ore Mining n.e.c.
+B,02,Mining,1400,Other Mining,141,Construction Material Mining,1411,Gravel and Sand Quarrying
+B,02,Mining,1400,Other Mining,141,Construction Material Mining,1419,Construction Material Mining n.e.c.
+B,02,Mining,1400,Other Mining,142,Mining n.e.c.,1420,Other Mining
+B,02,Mining,1500,Services to Mining,151,Exploration,1511,Petroleum Exploration (Own Account)
+B,02,Mining,1500,Services to Mining,151,Exploration,1512,Petroleum Exploration Services
+B,02,Mining,1500,Services to Mining,151,Exploration,1513,Mineral Exploration (Own Account)
+B,02,Mining,1500,Services to Mining,151,Exploration,1514,Mineral Exploration Services
+B,02,Mining,1500,Services to Mining,152,Other Mining Services,1520,Other Mining Services
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",211,Meat and Meat Product Manufacturing,2111,Meat Processing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",211,Meat and Meat Product Manufacturing,2112,Poultry Processing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",211,Meat and Meat Product Manufacturing,2113,"Bacon, Ham and Smallgood Manufacturing"
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",212,Dairy Product Manufacturing,2121,Milk and Cream Processing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",212,Dairy Product Manufacturing,2122,Ice Cream Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",212,Dairy Product Manufacturing,2129,Dairy Product Manufacturing n.e.c.
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",213,Fruit and Vegetable Processing,2130,Fruit and Vegetable Processing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",214,Oil and Fat Manufacturing,2140,Oil and Fat Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",215,Flour Mill and Cereal Food Manufacturing,2151,Flour Mill Product Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",215,Flour Mill and Cereal Food Manufacturing,2152,Cereal Food and Baking Mix Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",216,Bakery Product Manufacturing,2161,Bread Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",216,Bakery Product Manufacturing,2162,Cake and Pastry Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",216,Bakery Product Manufacturing,2163,Biscuit Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2171,Sugar Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2172,Confectionery Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2173,Seafood Processing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2174,Prepared Animal and Bird Feed
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",217,Other Food Manufacturing,2179,Food Manufacturing n.e.c.
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",218,Beverage and Malt Manufacturing,2181,"Soft Drink, Cordial and Syrup Manufacturing"
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",218,Beverage and Malt Manufacturing,2182,Beer and Malt Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",218,Beverage and Malt Manufacturing,2183,Wine Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",218,Beverage and Malt Manufacturing,2184,Spirit Manufacturing
+C,03,Manufacturing,2100,"Food, Beverage and Tobacco Manufacturing",219,Tobacco Product Manufacturing,2190,Tobacco Product Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2211,Wool Scouring
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2212,Synthetic Fibre Textile Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2213,Cotton Textile Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2214,Wool Textile Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",221,"Textile Fibre, Yarn and Woven Fabric Manufacturing",2215,Textile Finishing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",222,Textile Product Manufacturing,2221,Made-Up Textile Product Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",222,Textile Product Manufacturing,2222,Textile Floor Covering Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",222,Textile Product Manufacturing,2223,"Rope, Cordage and Twine Manufacturing"
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",222,Textile Product Manufacturing,2229,Textile Product Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",223,Knitting Mills,2231,Hosiery Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",223,Knitting Mills,2232,Cardigan and Pullover Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",223,Knitting Mills,2239,Knitting Mill Product Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",224,Clothing Manufacturing,2241,Men's and Boys' Wear Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",224,Clothing Manufacturing,2242,Women's and Girls' Wear Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",224,Clothing Manufacturing,2243,"Sleepwear, Underwear and Infant Clothing Manufacturing"
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",224,Clothing Manufacturing,2249,Clothing Manufacturing n.e.c.
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",225,Footwear Manufacturing,2250,Footwear Manufacturing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",226,Leather and Leather Product Manufacturing,2261,Leather Tanning and Fur Dressing
+C,03,Manufacturing,2200,"Textile, Clothing, Footwear and Leather Manufacturing",226,Leather and Leather Product Manufacturing,2262,Leather and Leather Substitute Product Manufacturing
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,231,Log Sawmilling and Timber Dressing,2311,Log Sawmilling
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,231,Log Sawmilling and Timber Dressing,2312,Wood Chipping
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,231,Log Sawmilling and Timber Dressing,2313,Timber Resawing and Dressing
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,232,Other Wood Product Manufacturing,2321,Plywood and Veneer Manufacturing
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,232,Other Wood Product Manufacturing,2322,Fabricated Wood Manufacturing
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,232,Other Wood Product Manufacturing,2323,Wooden Structural Component Manufacturing
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,232,Other Wood Product Manufacturing,2329,Wood Product Manufacturing n.e.c.
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2331,"Pulp, Paper and Paperboard Manufacturing"
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2332,Solid Paperboard Container Manufacturing
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2333,Corrugated Paperboard Container Manufacturing
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2334,Paper Bag and Sack Manufacturing
+C,03,Manufacturing,2300,Wood and Paper Product Manufacturing,233,Paper and Paper Product Manufacturing,2339,Paper Product Manufacturing n.e.c.
+C,03,Manufacturing,2400,"Printing, Publishing and Recorded Media",241,Printing and Services to Printing,2411,Paper Stationery Manufacturing
+C,03,Manufacturing,2400,"Printing, Publishing and Recorded Media",241,Printing and Services to Printing,2412,Printing
+C,03,Manufacturing,2400,"Printing, Publishing and Recorded Media",241,Printing and Services to Printing,2413,Services to Printing
+C,03,Manufacturing,2400,"Printing, Publishing and Recorded Media",242,Publishing,2421,Newspaper Printing or Publishing
+C,03,Manufacturing,2400,"Printing, Publishing and Recorded Media",242,Publishing,2422,Other Periodical Publishing
+C,03,Manufacturing,2400,"Printing, Publishing and Recorded Media",242,Publishing,2423,Book and Other Publishing
+C,03,Manufacturing,2400,"Printing, Publishing and Recorded Media",243,Recorded Media Manufacturing and Publishing,2430,Recorded Media Manufacturing and Publishing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",251,Petroleum Refining,2510,Petroleum Refining
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",252,Petroleum and Coal Product Manufacturing NEC,2520,Petroleum and Coal Product Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2531,Fertiliser Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2532,Industrial Gas Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2533,Synthetic Resin Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2534,Organic Industrial Chemical Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",253,Basic Chemical Manufacturing,2535,Inorganic Industrial Chemical
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2541,Explosive Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2542,Paint Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2543,Medicinal and Pharmaceutical Product Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2544,Pesticide Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2545,Soap and Other Detergent Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2546,Cosmetic and Toiletry Preparation Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2547,Ink Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",254,Other Chemical Product Manufacturing,2549,Chemical Product Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",255,Rubber Product Manufacturing,2551,Rubber Tyre Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",255,Rubber Product Manufacturing,2559,Rubber Product Manufacturing n.e.c.
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2561,Plastic Blow Moulded Product Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2562,Plastic Extruded Product Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2563,Plastic Bag and Film Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2564,Plastic Product Rigid Fibre Reinforced Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2565,Plastic Foam Product Manufacturing
+C,03,Manufacturing,2500,"Petroleum, Coal, Chemical and Associated Product M",256,Plastic Product Manufacturing,2566,Plastic Injection Moulded Product Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,261,Glass and Glass Product Manufacturing,2610,Glass and Glass Product Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,262,Ceramic Manufacturing,2621,Clay Brick Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,262,Ceramic Manufacturing,2622,Ceramic Product Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,262,Ceramic Manufacturing,2623,Ceramic Tile and Pipe Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,262,Ceramic Manufacturing,2629,Ceramic Product Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2631,Cement and Lime Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2632,Plaster Product Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2633,Concrete Slurry Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2634,Concrete Pipe and Box Culvert
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,263,"Cement, Lime, Plaster and Concrete Product Manufacturing",2635,Concrete Product Manufacturing
+C,03,Manufacturing,2600,Non-Metallic Mineral Product Manufacturing,264,Non-Metallic Mineral Product Manufacturing NEC,2640,Non-Metallic Mineral Product Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,271,Iron and Steel Manufacturing,2711,Basic Iron and Steel Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,271,Iron and Steel Manufacturing,2712,Iron and Steel Casting and Forging
+C,03,Manufacturing,2700,Metal Product Manufacturing,271,Iron and Steel Manufacturing,2713,Steel Pipe and Tube Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,272,Basic Non-Ferrous Metal Manufacturing,2721,Alumina Production
+C,03,Manufacturing,2700,Metal Product Manufacturing,272,Basic Non-Ferrous Metal Manufacturing,2722,Aluminium Smelting
+C,03,Manufacturing,2700,Metal Product Manufacturing,272,Basic Non-Ferrous Metal Manufacturing,2723,"Copper, Silver, Lead and Zinc"
+C,03,Manufacturing,2700,Metal Product Manufacturing,272,Basic Non-Ferrous Metal Manufacturing,2729,Basic Non-Ferrous Metal Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,273,Non-Ferrous Basic Metal Product Manufacturing,2731,"Aluminium Rolling, Drawing, Extruding"
+C,03,Manufacturing,2700,Metal Product Manufacturing,273,Non-Ferrous Basic Metal Product Manufacturing,2732,"Non-Ferrous Metal Rolling, Drawing, Extruding n.e.c."
+C,03,Manufacturing,2700,Metal Product Manufacturing,273,Non-Ferrous Basic Metal Product Manufacturing,2733,Non-Ferrous Metal Casting
+C,03,Manufacturing,2700,Metal Product Manufacturing,274,Structural Metal Product Manufacturing,2741,Structural Steel Fabricating
+C,03,Manufacturing,2700,Metal Product Manufacturing,274,Structural Metal Product Manufacturing,2742,Architectural Aluminium Product Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,274,Structural Metal Product Manufacturing,2749,Structural Metal Product Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,275,Sheet Metal Product Manufacturing,2751,Metal Container Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,275,Sheet Metal Product Manufacturing,2759,Sheet Metal Product Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2761,Hand Tool and General Hardware
+C,03,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2762,Spring and Wire Product Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2763,"Nut, Bolt, Screw and Rivet Manufacturing"
+C,03,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2764,Metal Coating and Finishing
+C,03,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2765,Non-Ferrous Pipe Fitting Manufacturing
+C,03,Manufacturing,2700,Metal Product Manufacturing,276,Fabricated Metal Product Manufacturing,2769,Fabricated Metal Product Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,281,Motor Vehicle and Part Manufacturing,2811,Motor Vehicle Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,281,Motor Vehicle and Part Manufacturing,2812,Motor Vehicle Body Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,281,Motor Vehicle and Part Manufacturing,2813,Automotive Electrical and Instrument Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,281,Motor Vehicle and Part Manufacturing,2819,Automotive Component Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2821,Shipbuilding
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2822,Boatbuilding
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2823,Railway Equipment Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2824,Aircraft Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,282,Other Transport Equipment Manufacturing,2829,Transport Equipment Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,283,Photographic and Scientific Equipment Manufacturing,2831,Photographic and Optical Good
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,283,Photographic and Scientific Equipment Manufacturing,2832,Medical and Surgical Equipment Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,283,Photographic and Scientific Equipment Manufacturing,2839,Professional and Scientific Equipment Manufacturing n.e.c.
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,284,Electronic Equipment Manufacturing,2841,Computer and Business Machine
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,284,Electronic Equipment Manufacturing,2842,"Telecommunication, Broadcasting & Transceiving Equipment Manufacturing"
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,284,Electronic Equipment Manufacturing,2849,Electronic Equipment Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2851,Household Appliance Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2852,Electric Cable and Wire Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2853,Battery Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2854,Electric Light and Sign Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,285,Electrical Equipment and Appliance Manufacturing,2859,Electrical and Equipment Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2861,Agricultural Machinery Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2862,Mining and Construction Machinery Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2863,Food Processing Machinery Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2864,Machine Tool and Part Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2865,Lifting and Material Handling
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2866,Pump and Compressor Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2867,Commercial Space Heating and Cooling Equipment Manufacturing
+C,03,Manufacturing,2800,Machinery and Equipment Manufacturing,286,Industrial Machinery and Equipment Manufacturing,2869,Industrial Machinery and Equipment Manufacturing n.e.c.
+C,03,Manufacturing,2900,Other Manufacturing,291,Prefabricated Building Manufacturing,2911,Prefabricated Metal Building Manufacturing
+C,03,Manufacturing,2900,Other Manufacturing,291,Prefabricated Building Manufacturing,2919,Prefabricated Building Manufacturing
+C,03,Manufacturing,2900,Other Manufacturing,292,Furniture Manufacturing,2921,Wooden Furniture and Upholster
+C,03,Manufacturing,2900,Other Manufacturing,292,Furniture Manufacturing,2922,Sheet Metal Furniture Manufacturing
+C,03,Manufacturing,2900,Other Manufacturing,292,Furniture Manufacturing,2923,Mattress Manufacturing (Except Rubber)
+C,03,Manufacturing,2900,Other Manufacturing,292,Furniture Manufacturing,2929,Furniture Manufacturing n.e.c.
+C,03,Manufacturing,2900,Other Manufacturing,294,Other Manufacturing,2941,Jewellery and Silverware Manufacturing
+C,03,Manufacturing,2900,Other Manufacturing,294,Other Manufacturing,2942,Toy and Sporting Good Manufacturing
+C,03,Manufacturing,2900,Other Manufacturing,294,Other Manufacturing,2949,Manufacturing n.e.c.
+D,04,"Electricity, Gas and Water Supply",3600,Electricity and Gas Supply,361,Electricity Supply,3610,Electricity Supply
+D,04,"Electricity, Gas and Water Supply",3600,Electricity and Gas Supply,362,Gas Supply,3620,Gas Supply
+D,04,"Electricity, Gas and Water Supply",3700,"Water Supply, Sewerage and Drainage Services",370,"Water Supply, Sewerage and Drainage Services",3701,Water Supply
+D,04,"Electricity, Gas and Water Supply",3700,"Water Supply, Sewerage and Drainage Services",370,"Water Supply, Sewerage and Drainage Services",3702,Sewerage and Drainage Services
+E,06,Construction,4100,General Construction,411,Building Construction,4111,House Construction
+E,06,Construction,4100,General Construction,411,Building Construction,4112,Residential Building Construction n.e.c.
+E,06,Construction,4100,General Construction,411,Building Construction,4113,Non-Residential Building Construction
+E,06,Construction,4100,General Construction,412,Non-Building Construction,4121,Road and Bridge Construction
+E,06,Construction,4100,General Construction,412,Non-Building Construction,4122,Non-Building Construction n.e.c.
+E,06,Construction,4200,Construction Trade Services,421,Site Preparation Services,4210,Site Preparation Services
+E,06,Construction,4200,Construction Trade Services,422,Building Structure Services,4221,Concreting Services
+E,06,Construction,4200,Construction Trade Services,422,Building Structure Services,4222,Bricklaying Services
+E,06,Construction,4200,Construction Trade Services,422,Building Structure Services,4223,Roofing Services
+E,06,Construction,4200,Construction Trade Services,422,Building Structure Services,4224,Structural Steel Erection Services
+E,06,Construction,4200,Construction Trade Services,423,Installation Trade Services,4231,Plumbing Services
+E,06,Construction,4200,Construction Trade Services,423,Installation Trade Services,4232,Electrical Services
+E,06,Construction,4200,Construction Trade Services,423,Installation Trade Services,4233,Air Conditioning and Heating Services
+E,06,Construction,4200,Construction Trade Services,423,Installation Trade Services,4234,Fire and Security System Services
+E,06,Construction,4200,Construction Trade Services,424,Building Completion Services,4241,Plastering and Ceiling Service
+E,06,Construction,4200,Construction Trade Services,424,Building Completion Services,4242,Carpentry Services
+E,06,Construction,4200,Construction Trade Services,424,Building Completion Services,4243,Tiling and Carpeting Services
+E,06,Construction,4200,Construction Trade Services,424,Building Completion Services,4244,Painting and Decorating Services
+E,06,Construction,4200,Construction Trade Services,424,Building Completion Services,4245,Glazing Services
+E,06,Construction,4200,Construction Trade Services,425,Other Construction Services,4251,Landscaping Services
+E,06,Construction,4200,Construction Trade Services,425,Other Construction Services,4259,Construction Services n.e.c.
+F,05,Wholesale Trade,4500,Basic Material Wholesaling,451,Farm Produce Wholesaling,4511,Wool Wholesaling
+F,05,Wholesale Trade,4500,Basic Material Wholesaling,451,Farm Produce Wholesaling,4512,Cereal Grain Wholesaling
+F,05,Wholesale Trade,4500,Basic Material Wholesaling,451,Farm Produce Wholesaling,4519,Farm Produce and Supplies Wholesaling
+F,05,Wholesale Trade,4500,Basic Material Wholesaling,452,"Mineral, Metal and Chemical Wholesaling",4521,Petroleum Product Wholesaling
+F,05,Wholesale Trade,4500,Basic Material Wholesaling,452,"Mineral, Metal and Chemical Wholesaling",4522,Metal and Mineral Wholesaling
+F,05,Wholesale Trade,4500,Basic Material Wholesaling,452,"Mineral, Metal and Chemical Wholesaling",4523,Chemical Wholesaling
+F,05,Wholesale Trade,4500,Basic Material Wholesaling,453,Builders Supplies Wholesaling,4531,Timber Wholesaling
+F,05,Wholesale Trade,4500,Basic Material Wholesaling,453,Builders Supplies Wholesaling,4539,Building Supplies Wholesaling
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4611,Farm and Construction Machinery Wholesaling
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4612,Professional Equipment Wholesaling
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4613,Computer Wholesaling
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4614,Business Machine Wholesaling n.e.c.
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4615,Electrical and Electronic Equipment Wholesaling n.e.c.
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,461,Machinery and Equipment Wholesaling,4619,Machinery and Equipment Wholesaling
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,462,Motor Vehicle Wholesaling,4621,Car Wholesaling
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,462,Motor Vehicle Wholesaling,4622,Commercial Vehicle Wholesaling
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,462,Motor Vehicle Wholesaling,4623,Motor Vehicle New Part Dealing
+F,05,Wholesale Trade,4600,Machinery and Motor Vehicle Wholesaling,462,Motor Vehicle Wholesaling,4624,Motor Vehicle Dismantling and Used Part Dealing
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4711,Meat Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4712,Poultry and Smallgood Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4713,Dairy Produce Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4714,Fish Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4715,Fruit and Vegetable Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4716,Confectionery and Soft Drink Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4717,Liquor Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4718,Tobacco Product Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,471,"Food, Drink and Tobacco Wholesaling",4719,Grocery Wholesaling n.e.c.
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,472,"Textile, Clothing and Footwear Wholesaling",4721,Textile Product Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,472,"Textile, Clothing and Footwear Wholesaling",4722,Clothing Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,472,"Textile, Clothing and Footwear Wholesaling",4723,Footwear Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,473,Household Good Wholesaling,4731,Household Appliance Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,473,Household Good Wholesaling,4732,Furniture Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,473,Household Good Wholesaling,4733,Floor Covering Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,473,Household Good Wholesaling,4739,Household Good Wholesaling n.e.c.
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4791,Photographic Equipment Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4792,Jewellery and Watch Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4793,Toy and Sporting Good Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4794,Book and Magazine Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4795,Paper Product Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4796,Pharmaceutical and Toiletry Wholesaling
+F,05,Wholesale Trade,4700,Personal and Household Good Wholesaling,479,Other Wholesaling,4799,Wholesaling n.e.c.
+G,07,Retail Trade,5100,Food Retailing,511,Supermarket and Grocery Stores,5110,Supermarket and Grocery Stores
+G,07,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5121,"Fresh Meat, Fish and Poultry Retailing"
+G,07,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5122,Fruit and Vegetable Retailing
+G,07,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5123,Liquor Retailing
+G,07,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5124,Bread and Cake Retailing
+G,07,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5125,Takeaway Food Retailing
+G,07,Retail Trade,5100,Food Retailing,512,Specialised Food Retailing,5126,Milk Vending
+G,07,Retail Trade,5100,Food Retailing,521,Department Stores,5129,Specialised Food Retailing n.e.c.
+G,07,Retail Trade,5200,Personal and Household Good Retailing,522,Clothing and Soft Good Retailing,5210,Department Stores
+G,07,Retail Trade,5200,Personal and Household Good Retailing,522,Clothing and Soft Good Retailing,5221,Clothing Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,522,Clothing and Soft Good Retailing,5222,Footwear Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5223,Fabric and Other Soft Good Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5231,Furniture Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5232,Floor Covering Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5233,Domestic Hardware and Houseware Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5234,Domestic Appliance Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,523,"Furniture, Houseware and Appliance Retailing",5235,Recorded Music Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5241,Sport and Camping Equipment Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5242,Toy and Game Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5243,"Newspaper, Book and Stationery Retailing"
+G,07,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5244,Photographic Equipment Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,524,Recreational Good Retailing,5245,Marine Equipment Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5251,"Pharmaceutical, Cosmetic and Toiletry Retailing"
+G,07,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5252,Antique and Used Good Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5253,Garden Equipment Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5254,Flower Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5255,Watch and Jewellery Retailing
+G,07,Retail Trade,5200,Personal and Household Good Retailing,525,Other Personal and Household Good Retailing,5259,Retailing n.e.c.
+G,07,Retail Trade,5200,Personal and Household Good Retailing,526,Household Equipment Repair Services,5269,Household Equipment Repair Services n.e.c.
+G,07,Retail Trade,5200,Personal and Household Good Retailing,526,Household Equipment Repair Services,5261,Household Equipment Repair Services (Electrical)
+G,07,Retail Trade,5300,Motor Vehicle Retailing and Services,531,Motor Vehicle Retailing,5311,Car Retailing
+G,07,Retail Trade,5300,Motor Vehicle Retailing and Services,531,Motor Vehicle Retailing,5312,Motor Cycle Dealing
+G,07,Retail Trade,5300,Motor Vehicle Retailing and Services,531,Motor Vehicle Retailing,5313,Trailer and Caravan Dealing
+G,07,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5321,Automotive Fuel Retailing
+G,07,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5322,Automotive Electrical Services
+G,07,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5323,Smash Repairing
+G,07,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5324,Tyre Retailing
+G,07,Retail Trade,5300,Motor Vehicle Retailing and Services,532,Motor Vehicle Services,5329,Automotive Repair and Services
+H,08,"Accommodation, Cafes and Restaurants",5700,"Accommodation, Cafes and Restaurants",571,Accommodation,5710,Accommodation
+H,08,"Accommodation, Cafes and Restaurants",5700,"Accommodation, Cafes and Restaurants",572,"Pubs, Taverns and Bars",5720,"Pubs, Taverns and Bars"
+H,08,"Accommodation, Cafes and Restaurants",5700,"Accommodation, Cafes and Restaurants",573,Cafes and Restaurants,5730,Cafes and Restaurants
+H,08,"Accommodation, Cafes and Restaurants",5700,"Accommodation, Cafes and Restaurants",574,Clubs (Hospitality),5740,Clubs (Hospitality)
+I,09,Transport and Storage,6100,Road Transport,611,Road Freight Transport,6110,Road Freight Transport
+I,09,Transport and Storage,6100,Road Transport,612,Road Passenger Transport,6121,Long Distance Bus Transport
+I,09,Transport and Storage,6100,Road Transport,612,Road Passenger Transport,6122,Short Distance Bus Transport
+I,09,Transport and Storage,6100,Road Transport,612,Road Passenger Transport,6123,Taxi and Other Road Passenger Transport
+I,09,Transport and Storage,6200,Rail Transport,620,Rail Transport,6200,Rail Transport
+I,09,Transport and Storage,6300,Water Transport,630,Water Transport,6301,International Sea Transport
+I,09,Transport and Storage,6300,Water Transport,630,Water Transport,6302,Coastal Water Transport
+I,09,Transport and Storage,6300,Water Transport,630,Water Transport,6303,Inland Water Transport
+I,09,Transport and Storage,6400,Air and Space Transport,640,Air and Space Transport,6401,Scheduled International Air Transport
+I,09,Transport and Storage,6400,Air and Space Transport,640,Air and Space Transport,6402,Scheduled Domestic Air Transport
+I,09,Transport and Storage,6400,Air and Space Transport,640,Air and Space Transport,6403,Non-Scheduled Air and Space Transport
+I,09,Transport and Storage,6500,Other Transport,650,Other Transport,6501,Pipeline Transport
+I,09,Transport and Storage,6500,Other Transport,650,Other Transport,6509,Transport n.e.c.
+I,09,Transport and Storage,6600,Services to Transport,661,Services to Road Transport,6611,Parking Services
+I,09,Transport and Storage,6600,Services to Transport,661,Services to Road Transport,6619,Services to Road Transport n.e.c.
+I,09,Transport and Storage,6600,Services to Transport,662,Services to Water Transport,6621,Stevedoring
+I,09,Transport and Storage,6600,Services to Transport,662,Services to Water Transport,6622,Water Transport Terminals
+I,09,Transport and Storage,6600,Services to Transport,662,Services to Water Transport,6623,Port Operators
+I,09,Transport and Storage,6600,Services to Transport,663,Services to Air Transport,6629,Services to Water Transport n.e.c.
+I,09,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6630,Services to Air Transport
+I,09,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6641,Travel Agency Services
+I,09,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6642,Road Freight Forwarding
+I,09,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6643,Freight Forwarding (Except Road)
+I,09,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6644,Customs Agency Services
+I,09,Transport and Storage,6600,Services to Transport,664,Other Services to Transport,6649,Services to Transport n.e.c.
+I,09,Transport and Storage,6700,Storage,670,Storage,6701,Grain Storage
+I,09,Transport and Storage,6700,Storage,670,Storage,6709,Storage n.e.c.
+J,10,Communication Services,7100,Communication Services,711,Postal and Courier Services,7111,Postal Services
+J,10,Communication Services,7100,Communication Services,711,Postal and Courier Services,7112,Courier Services
+J,10,Communication Services,7100,Communication Services,712,Telecommunication Services,7120,Telecommunication Services
+K,11,Finance and Insurance,7300,Finance,731,Central Bank,7310,Central Bank
+K,11,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7321,Banks
+K,11,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7322,Building Societies
+K,11,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7323,Credit Unions
+K,11,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7324,Money Market Dealers
+K,11,Finance and Insurance,7300,Finance,732,Deposit Taking Financiers,7329,Deposit Taking Financiers n.e.c.
+K,11,Finance and Insurance,7300,Finance,733,Other Financiers,7330,Other Financiers
+K,11,Finance and Insurance,7300,Finance,734,Financial Asset Investors,7340,Financial Asset Investors
+K,11,Finance and Insurance,7400,Insurance,741,Life Insurance and Superannuation Funds,7411,Life Insurance
+K,11,Finance and Insurance,7400,Insurance,741,Life Insurance and Superannuation Funds,7412,Superannuation Funds
+K,11,Finance and Insurance,7400,Insurance,742,Other Insurance,7421,Health Insurance
+K,11,Finance and Insurance,7400,Insurance,742,Other Insurance,7422,General Insurance
+K,11,Finance and Insurance,7500,Services to Finance and Insurance,751,Services to Finance and Investment,7511,Financial Asset Broking Services
+K,11,Finance and Insurance,7500,Services to Finance and Insurance,751,Services to Finance and Investment,7519,Services to Finance and Investment n.e.c.
+K,11,Finance and Insurance,7500,Services to Finance and Insurance,752,Services to Insurance,7520,Services to Insurance
+L,12,Property and Business Services,7700,Property Services,771,Property Operators and Developers,7711,Residential Property Operators
+L,12,Property and Business Services,7700,Property Services,771,Property Operators and Developers,7712,Commercial Property Operators
+L,12,Property and Business Services,7700,Property Services,772,Real Estate Agents,7720,Real Estate Agents
+L,12,Property and Business Services,7700,Property Services,773,Non-Financial Asset Investors,7730,Non-Financial Asset Investors
+L,12,Property and Business Services,7700,Property Services,774,Machinery and Equipment Hiring and Leasing,7741,Motor Vehicle Hiring
+L,12,Property and Business Services,7700,Property Services,774,Machinery and Equipment Hiring and Leasing,7742,Other Transport Equipment Leasing
+L,12,Property and Business Services,7700,Property Services,774,Machinery and Equipment Hiring and Leasing,7743,Plant Hiring or Leasing
+L,12,Property and Business Services,7800,Business Services,781,Scientific Research,7810,Scientific Research
+L,12,Property and Business Services,7800,Business Services,782,Technical Services,7821,Architectural Services
+L,12,Property and Business Services,7800,Business Services,782,Technical Services,7822,Surveying Services
+L,12,Property and Business Services,7800,Business Services,782,Technical Services,7823,Consulting Engineering Service
+L,12,Property and Business Services,7800,Business Services,782,Technical Services,7829,Technical Services n.e.c.
+L,12,Property and Business Services,7800,Business Services,783,Computer Services,7831,Data Processing Services
+L,12,Property and Business Services,7800,Business Services,783,Computer Services,7832,Information Storage and Retrieval Services
+L,12,Property and Business Services,7800,Business Services,783,Computer Services,7833,Computer Maintenance Services
+L,12,Property and Business Services,7800,Business Services,784,Legal and Accounting Services,7834,Computer Consultancy Services
+L,12,Property and Business Services,7800,Business Services,784,Legal and Accounting Services,7841,Legal Services
+L,12,Property and Business Services,7800,Business Services,784,Legal and Accounting Services,7842,Accounting Services
+L,12,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7851,Advertising Services
+L,12,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7852,Commercial Art and Display Services
+L,12,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7853,Market Research Services
+L,12,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7854,Business Administrative Services
+L,12,Property and Business Services,7800,Business Services,785,Marketing and Business Management Services,7855,Business Management Services
+L,12,Property and Business Services,7800,Business Services,786,Other Business Services,7861,Employment Placement Services
+L,12,Property and Business Services,7800,Business Services,786,Other Business Services,7862,Contract Staff Services
+L,12,Property and Business Services,7800,Business Services,786,Other Business Services,7863,Secretarial Services
+L,12,Property and Business Services,7800,Business Services,786,Other Business Services,7864,Security and Investigative Services
+L,12,Property and Business Services,7800,Business Services,786,Other Business Services,7865,Pest Control Services
+L,12,Property and Business Services,7800,Business Services,786,Other Business Services,7866,Cleaning Services
+L,12,Property and Business Services,7800,Business Services,786,Other Business Services,7867,Contract Packing Services n.e.c.
+L,12,Property and Business Services,7800,Business Services,786,Other Business Services,7869,Business Services n.e.c.
+M,13,Government Administration and Defence,8100,Government Administration,811,Government Administration,8111,Central Government Administration
+M,13,Government Administration and Defence,8100,Government Administration,811,Government Administration,8112,State Government Administration
+M,13,Government Administration and Defence,8100,Government Administration,811,Government Administration,8113,Local Government Administration
+M,13,Government Administration and Defence,8100,Government Administration,812,Justice,8120,Justice
+M,13,Government Administration and Defence,8100,Government Administration,813,Foreign Government Representation,8130,Foreign Government Representation
+M,13,Government Administration and Defence,8200,Defence,820,Defence,8200,Defence
+N,14,Education,8400,Education,841,Preschool Education,8410,Preschool Education
+N,14,Education,8400,Education,842,School Education,8421,Primary Education
+N,14,Education,8400,Education,842,School Education,8422,Secondary Education
+N,14,Education,8400,Education,842,School Education,8423,Combined Primary and Secondary
+N,14,Education,8400,Education,842,School Education,8424,Special School Education
+N,14,Education,8400,Education,843,Post School Education,8431,Higher Education
+N,14,Education,8400,Education,843,Post School Education,8432,Technical and Further Education
+N,14,Education,8400,Education,844,Other Education,8440,Other Education
+O,15,Health and Community Services,8600,Health Services,861,Hospitals and Nursing Homes,8611,Hospitals (Except Psychiatric Hospitals)
+O,15,Health and Community Services,8600,Health Services,861,Hospitals and Nursing Homes,8612,Psychiatric Hospitals
+O,15,Health and Community Services,8600,Health Services,861,Hospitals and Nursing Homes,8613,Nursing Homes
+O,15,Health and Community Services,8600,Health Services,862,Medical and Dental Services,8621,General Practice Medical Services
+O,15,Health and Community Services,8600,Health Services,862,Medical and Dental Services,8622,Specialist Medical Services
+O,15,Health and Community Services,8600,Health Services,862,Medical and Dental Services,8623,Dental Services
+O,15,Health and Community Services,8600,Health Services,863,Other Health Services,8631,Pathology Services
+O,15,Health and Community Services,8600,Health Services,863,Other Health Services,8632,Optometry and Optical Dispensing
+O,15,Health and Community Services,8600,Health Services,863,Other Health Services,8633,Ambulance Services
+O,15,Health and Community Services,8600,Health Services,863,Other Health Services,8634,Community Health Centres
+O,15,Health and Community Services,8600,Health Services,863,Other Health Services,8635,Physiotherapy Services
+O,15,Health and Community Services,8600,Health Services,863,Other Health Services,8636,Chiropractic Services
+O,15,Health and Community Services,8600,Health Services,863,Other Health Services,8639,Health Services n.e.c.
+O,15,Health and Community Services,8600,Health Services,864,Veterinary Services,8640,Veterinary Services
+O,15,Health and Community Services,8700,Community Services,871,Child Care Services,8710,Child Care Services
+O,15,Health and Community Services,8700,Community Services,872,Community Care Services,8721,Accommodation for the Aged
+O,15,Health and Community Services,8700,Community Services,872,Community Care Services,8722,Residential Care Services n.e.c..
+O,15,Health and Community Services,8700,Community Services,872,Community Care Services,8729,Non-Residential Care Services
+P,16,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",911,Film and Video Services,9111,Film and Video Production
+P,16,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",911,Film and Video Services,9112,Film and Video Distribution
+P,16,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",911,Film and Video Services,9113,Motion Picture Exhibition
+P,16,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",912,Radio and Television Services,9121,Radio Services
+P,16,Cultural and Recreational Services,9100,"Motion Picture, Radio and Television Services",912,Radio and Television Services,9122,Television Services
+P,16,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",921,Libraries,9210,Libraries
+P,16,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",922,Museums,9220,Museums
+P,16,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",923,Parks and Gardens,9231,Zoological and Botanic Gardens
+P,16,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",923,Parks and Gardens,9239,Recreational Parks and Gardens
+P,16,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",924,Arts,9241,Music and Theatre Productions
+P,16,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",924,Arts,9242,Creative Arts
+P,16,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",925,Services to the Arts,9251,Sound Recording Studios
+P,16,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",925,Services to the Arts,9252,Performing Arts Venues
+P,16,Cultural and Recreational Services,9200,"Libraries, Museums and the Arts",925,Services to the Arts,9259,Services to the Arts n.e.c.
+P,16,Cultural and Recreational Services,9300,Sport and Recreation,931,Sport,9311,Horse and Dog Racing
+P,16,Cultural and Recreational Services,9300,Sport and Recreation,931,Sport,9312,Sports Grounds and Facilities
+P,16,Cultural and Recreational Services,9300,Sport and Recreation,931,Sport,9319,Sports and Services to Sports
+P,16,Cultural and Recreational Services,9300,Sport and Recreation,932,Gambling Services,9321,Lotteries
+P,16,Cultural and Recreational Services,9300,Sport and Recreation,932,Gambling Services,9322,Casinos
+P,16,Cultural and Recreational Services,9300,Sport and Recreation,932,Gambling Services,9329,Gambling Services n.e.c.
+P,16,Cultural and Recreational Services,9300,Sport and Recreation,933,Other Recreation Services,9330,Other Recreation Services
+Q,17,Personal and Other Services,9500,Personal Services,951,Personal and Household Goods Hiring,9511,Video Hire Outlets
+Q,17,Personal and Other Services,9500,Personal Services,951,Personal and Household Goods Hiring,9519,Personal and Household Goods Hiring n.e.c.
+Q,17,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9521,Laundries and Dry-Cleaners
+Q,17,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9522,Photographic Film Processing
+Q,17,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9523,Photographic Studios
+Q,17,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9524,"Funeral Directors, Crematoria and Cemeteries"
+Q,17,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9525,Gardening Services
+Q,17,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9526,Hairdressing and Beauty Salons
+Q,17,Personal and Other Services,9500,Personal Services,952,Other Personal Services,9529,Personal Services n.e.c.
+Q,17,Personal and Other Services,9600,Other Services,961,Religious Organisations,9610,Religious Organisations
+Q,17,Personal and Other Services,9600,Other Services,962,Interest Groups,9621,Business and Professional Associations
+Q,17,Personal and Other Services,9600,Other Services,962,Interest Groups,9622,Labour Associations
+Q,17,Personal and Other Services,9600,Other Services,962,Interest Groups,9629,Interest Groups n.e.c.
+Q,17,Personal and Other Services,9600,Other Services,963,Public Order and Safety Services,9631,Police Services
+Q,17,Personal and Other Services,9600,Other Services,963,Public Order and Safety Services,9632,Corrective Centres
+Q,17,Personal and Other Services,9600,Other Services,963,Public Order and Safety Services,9633,Fire Brigade Services
+Q,17,Personal and Other Services,9600,Other Services,963,Public Order and Safety Services,9634,Waste Disposal Services
+Q,17,Personal and Other Services,9700,Private Households Employing Staff,970,Private Households Employing Staff,9700,Private Households Employing Staff
