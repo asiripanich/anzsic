@@ -16,6 +16,6 @@ jobs:
             - name: Install dependencies
               run: pip install -r requirements.txt
 
-            - name: Run tidy_anzsic.py
-              run: python tidy_anzsic.py
+            - name: Run notebook
+              run: papermill tidy.ipynb tidy-rendered.ipynb
 
