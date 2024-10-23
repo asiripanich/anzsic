@@ -1,21 +1,27 @@
 name: Tidy ANZSIC
 
 on:
-    push:
+  push:
 
 jobs:
-    tidy:
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v4
-            - name: Set up Python
-              uses: actions/setup-python@v5
-              with: 
-                python-version: 3.x
-          
-            - name: Install dependencies
-              run: pip install -r requirements.txt
+  tidy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with: 
+          python-version: 3.x
 
-            - name: Run notebook
-              run: papermill tidy.ipynb tidy-rendered.ipynb
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run notebook
+        run: papermill tidy.ipynb tidy-rendered.ipynb
+
+      - name: Upload CSV artifact
+        uses: actions/upload-artifact@v2
+        with:
+          name: csv-artifact
+          path: anzsic_2006.csv
 
