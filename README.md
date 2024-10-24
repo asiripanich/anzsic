@@ -1,4 +1,5 @@
 # anzsic codes
+[![Tidy ANZSIC](https://github.com/asiripanich/anzsic/actions/workflows/tidy.yml/badge.svg)](https://github.com/asiripanich/anzsic/actions/workflows/tidy.yml)
 
 ANZSIC codes in a standard table format for people who are sick of ABS for sharing data in non-standard formats.
 
