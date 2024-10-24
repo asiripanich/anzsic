@@ -19,7 +19,13 @@ jobs:
       - name: Run notebook
         run: papermill tidy.ipynb tidy-rendered.ipynb
 
-      - name: Upload CSV artifact
+      - name: Upload anzsic_1993.csv
+        uses: actions/upload-artifact@v4
+        with:
+          name: anzsic_1993.csv
+          path: anzsic_1993.csv
+
+      - name: Upload anzsic_2006.csv
         uses: actions/upload-artifact@v4
         with:
           name: anzsic_2006.csv
