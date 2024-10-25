@@ -1,0 +1,47 @@
+name: Tidy ANZSIC
+
+on:
+  push:
+
+jobs:
+  tidy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with: 
+          python-version: 3.x
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run notebook
+        run: papermill tidy.ipynb tidy-rendered.ipynb
+
+      - name: Upload tidy-rendered.ipynb
+        uses: actions/upload-artifact@v4
+        with:
+          name: tidy-rendered.ipynb
+          path: tidy-rendered.ipynb
+
+      - name: Upload anzsic_1993.csv
+        uses: actions/upload-artifact@v4
+        with:
+          name: anzsic_1993.csv
+          path: anzsic_1993.csv
+
+      - name: Upload anzsic_2006.csv
+        uses: actions/upload-artifact@v4
+        with:
+          name: anzsic_2006.csv
+          path: anzsic_2006.csv
+
+      - name: Upload anzsic_1993_to_2006_conversion_table.csv
+        uses: actions/upload-artifact@v4
+        with:
+          name: anzsic_1993_to_2006_conversion_table.csv
+          path: anzsic_1993_to_2006_conversion_table.csv
+
+   
+
